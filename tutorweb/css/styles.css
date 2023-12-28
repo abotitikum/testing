@@ -1,0 +1,25 @@
+
+.title {
+  position: absolute;
+}
+
+.body {
+  background-image: url(/images/background.png);
+  background-size: cover;
+}
+
+.hero {
+  background-image: url('/images/background.png'); /* Replace 'your-image.jpg' with your image URL */
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 100px 0;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+.hero p {
+  font-size: 1.2em;
+}
